@@ -128,7 +128,7 @@ h1 {
     background-color: #000000 !important;
     color: #ffffff;
     height: 100px;
-    width: 490px;
+    width: 420px;
     font-size: 3rem;
     text-transform: uppercase;
     text-align: start;
@@ -144,7 +144,7 @@ h1 {
 
     h1 {
         height: auto;
-        width: 300px;
+        width: 400px;
         font-size: 3rem;
     }
 }
